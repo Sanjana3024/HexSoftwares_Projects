@@ -11,8 +11,9 @@ This repository contains a collection of Python projects developed during my int
 - 🔢 **Fibonacci Series Generator** – Generates Fibonacci numbers with clean logic.  
 - 💰 **Expense Tracker** – Tracks daily expenses and provides an overview.  
 - 🏠 **Rent Calculator** – Helps calculate rent split among individuals.  
-- 🌐 **Web Scraper** – Extracts data from websites and saves it for analysis.  
-
+- 🌐 **Web Scraper** – Extracts data from websites and saves it for analysis.
+- 🧠🎮 **Memory Puzzle Game** – Flip cards to match pairs and beat your best time.
+- 📍🌍 **Geolocation Tracker** – Tracks and displays real-time location using GPS coordinates
 ---
 
 ## 🚀 Skills Demonstrated
